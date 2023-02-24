@@ -19,6 +19,8 @@
     background-color: cyan;
     grid-row: span 2;
     grid-column: span 2;
+    /* does not explicitly define the starting and ending position 
+    just spans from current location */
 }
 .item-3 {
     background-color: yellow;
